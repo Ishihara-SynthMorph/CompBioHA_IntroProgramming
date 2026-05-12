@@ -14,13 +14,13 @@ We hope that this course gets students excited about combining programming and q
 
 **Meeting location:**
 
- - Halket Bulding, Room TBD
+ - Halket Building, Room TBD
  
  **Schedule:**
 
 |      | Date              | Time        | Topic                     | Coding concepts                     | Bio concepts           | Materials              |
 | ---- | ----------------- | ----------- | ------------------------- | ----------------------------------- | ---------------------- | ---------------------- |
-| 1    | Thursday, June 18   |  TBD | Introduction              | string operations                   | Central Dogma| |
-| 2    | Monday, June 22   | TBD | Exploratory data analysis & Machine Learning | pandas, matplotlib, seaborn, numpy, scikit-learn |  |
-| 3    | Tuesday, June 23  |  TBD | Image Analysis            | | |  |
-| 4    | Thursday, June 25 | TBD | Modeling and Simulations  | | |  |
+| 1    | Wednesday, June 17   | 1:00-2:30 | Introduction              | string operations, exploratory data analysis (plotting)         | Central Dogma, (Demographic Data)| |
+| 2    | Thursday, June 18  | 9:00-10:30 | Machine Learning | pandas, matplotlib, seaborn, numpy, scikit-learn | RNAseq |
+| 3    | Monday, June 22  | 10:30-12:00 | Image Analysis            | | |  |
+| 4    | Thursday, June 25 | 10:30-12:00 | Modeling and Simulations  | | |  |
